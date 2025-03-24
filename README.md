@@ -21,7 +21,7 @@ A simple and user-friendly To-Do List App built using Kotlin in Android Studio. 
 - RecyclerView for dynamic task display  
 
 ## Demo Video  
-  
+  https://github.com/PratikshaKulkarni7404/Android-Repo/issues/1#issue-2943059264
 
 ## Installation  
 
